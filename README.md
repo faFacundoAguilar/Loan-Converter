@@ -8,3 +8,9 @@ This project implements a loan quotation system where users can enter the desire
 - React
 - Vite (as bundler)
 - Tailwind CSS (for styling)
+## Features
+- **Loan Calculator:** Allows the user to enter the loan amount and select the repayment term. ✔️
+  
+- **Automatic Calculation:** Upon entering the required data, the total amount to be paid, including interest, is automatically calculated. 🟰
+  
+- **Clear Functionality:** Button to clear the form content and reset the quotation. ❌
